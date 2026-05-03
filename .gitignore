@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.keras
+cifar10_data/
+*.tar.gz
+.venv/
+venv/
+.env
